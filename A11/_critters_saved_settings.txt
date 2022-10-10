@@ -1,0 +1,15 @@
+#CSE 142 Critters saved settings
+#Fri Apr 30 22:45:54 CDT 2021
+Longhorn=true
+Ant=true
+Bird=true
+Hippo=true
+Vulture=true
+Bird2=true
+Secure\ tournament\ mode=true
+Stone=true
+Debug\ output=false
+Network\ features=false
+Number\ of\ each\ critter=50
+Height=50
+Width=60
